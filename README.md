@@ -1,5 +1,8 @@
 # -Power-BI-Dashboard-Zomato-Restaurant-Analysis
 
+<img width="1528" height="860" alt="Screenshot 2025-01-15 003905" src="https://github.com/user-attachments/assets/64529249-35f3-485f-b27a-e6e6f41a44e1" />
+
+
 I am excited to share my latest project, where I developed an interactive and insightful Power BI Dashboard to analyze restaurant data from Zomato. This dashboard provides a comprehensive overview of key metrics and trends in the restaurant industry, enabling data-driven decisions.
 
 Key Features:
